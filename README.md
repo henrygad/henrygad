@@ -1,8 +1,8 @@
 # Hi, I'm Henry 👋
 
-### Frontend Developer | React • Next.js • TypeScript • Tailwind CSS
+### Full-Stack JavaScript/TypeScript Developer | React • Next.js • Node.js
 
-I'm a frontend developer focused on building responsive, production-ready web applications.
+I’m a full-stack JavaScript/TypeScript developer focused on building production-ready web applications, from responsive React/Next.js interfaces to REST APIs, server-side logic, authentication, and database integrations
 
 I've worked on real-world products including e-commerce, real estate, nonprofit and ride-hailing platforms.
 
@@ -12,6 +12,7 @@ I've worked on real-world products including e-commerce, real estate, nonprofit 
 * Next.js
 * TypeScript
 * JavaScript
+* NodeJs
 * Tailwind CSS
 * React Native
 * Supabase
